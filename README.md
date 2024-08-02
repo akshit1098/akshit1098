@@ -8,13 +8,15 @@
 
 - 🔭 I’m currently working on [Net Neutrality Wehe Application](https://achtung-gitlab.ccs.neu.edu/code/differentiation-ios/-/tree/wehe/wehe/Replay_files?ref_type=heads)
 
-- 🌱 I’m currently learning **React Native, Deep Learning (Neural Networks), )**
+- 🌱 I’m currently learning **React Native, AI Technologies (Machine Learning, Deep Learning and Neural Networks)**
 
 - 💬 Ask me about **Mobile Application Development (native iOS), Web Application Development and Machine Learning**
 
 - 📫 How to reach me **saxena.aks@northeastern.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IHOf0zCFR6Y743FAtYK4v8Fxvo-5lcFK/view?usp=sharing](https://drive.google.com/file/d/1IHOf0zCFR6Y743FAtYK4v8Fxvo-5lcFK/view?usp=sharing)
+- 💼 My portfolio website [https://akshit-saxena-portfolio.netlify.app/](https://akshit-saxena-portfolio.netlify.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
