@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit1098&label=Profile%20views&color=0e75b6&style=flat" alt="akshit1098" /> </p>
 
-- 🔭 I’m currently working on [Net Neutrality Wehe Application](https://achtung-gitlab.ccs.neu.edu/code/differentiation-ios/-/tree/wehe/wehe/Replay_files?ref_type=heads)
+- 🔭 I’m currently working on [Net Neutrality Wehe Application](https://apps.apple.com/us/app/wehe/id1309242023)
 
 - 🌱 I’m currently learning **React Native, AI Technologies (Machine Learning, Deep Learning and Neural Networks)**
 
