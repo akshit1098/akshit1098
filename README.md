@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **saxena.aks@northeastern.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IHOf0zCFR6Y743FAtYK4v8Fxvo-5lcFK/view?usp=sharing](https://drive.google.com/file/d/1IHOf0zCFR6Y743FAtYK4v8Fxvo-5lcFK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IHOf0zCFR6Y743FAtYK4v8Fxvo-5lcFK/view?usp=sharing](https://drive.google.com/file/d/1fU9CNa9TPs96lJ039tThDIObEjY-baR-/view?usp=sharing)
 - 💼 My portfolio website [https://akshit-saxena-portfolio.netlify.app/](https://akshit-saxena-portfolio.netlify.app/)
 
 
