@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit1098&label=Profile%20views&color=0e75b6&style=flat" alt="akshit1098" /> </p>
 
-- 🔭 I’m currently working on [Net Neutrality Wehe Application](https://apps.apple.com/us/app/wehe/id1309242023)
+- 🌱 I’m currently puesuing my Master's in Computer and Information Systems from Norteastern University at Boston. Currently working on **React Native, AI Technologies (Machine Learning, Deep Learning and Neural Networks)**
 
-- 🌱 I’m currently learning **React Native, AI Technologies (Machine Learning, Deep Learning and Neural Networks)**
+- 🔭 Worked on [Net Neutrality Wehe iOS mobile Application](https://apps.apple.com/us/app/wehe/id1309242023) under Profesoor David Choffnes of Cybersecurity and Privacy Institute, Khoury College of Computer Sciences
 
 - 💬 Ask me about **Mobile Application Development (native iOS), Web Application Development and Machine Learning**
 
