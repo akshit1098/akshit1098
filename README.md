@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently puesuing my Master's in Computer and Information Systems from Norteastern University at Boston. Currently working on **React Native, AI Technologies (Machine Learning, Deep Learning and Neural Networks)**
 
-- 🔭 Worked on [Net Neutrality Wehe iOS mobile Application](https://apps.apple.com/us/app/wehe/id1309242023) under Profesoor David Choffnes of Cybersecurity and Privacy Institute, Khoury College of Computer Sciences
+- 🔭 Worked on [Net Neutrality Wehe iOS mobile Application](https://apps.apple.com/us/app/wehe/id1309242023) under Professor David Choffnes of Cybersecurity and Privacy Institute, Khoury College of Computer Sciences
 
 - 💬 Ask me about **Mobile Application Development (native iOS), Web Application Development and Machine Learning**
 
@@ -18,7 +18,7 @@
 - 💼 My portfolio website [https://akshit-saxena-portfolio.netlify.app/](https://akshit-saxena-portfolio.netlify.app/)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Learn more about me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshitsaxena98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshitsaxena98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saxenaakshit1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saxenaakshit1998" height="30" width="40" /></a>
