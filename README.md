@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit1098&label=Profile%20views&color=0e75b6&style=flat" alt="akshit1098" /> </p>
 
-- 🌱 Currently pursuing a Master's in Information Systems at Northeastern University, specializing in cross-platform app development with React Native, native iOS development, and cloud technologies.**
+- 🌱 Currently pursuing a Master's in Information Systems at Northeastern University, specializing in cross-platform app development with React Native, native iOS development, and cloud technologies.
 
 - 🔭 Worked on [Net Neutrality Wehe iOS mobile Application](https://apps.apple.com/us/app/wehe/id1309242023) under Professor David Choffnes of Cybersecurity and Privacy Institute, Khoury College of Computer Sciences
 
